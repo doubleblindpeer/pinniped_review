@@ -5,7 +5,6 @@ library(atsar)
 library(rstan)
 library(loo)
 library(magrittr)
-# remotes::install_github("twangss/atsa-seals")
 library(atsar)
 
 source("R/marss_stan_functions.R")
